@@ -24,3 +24,10 @@ a {
     padding: 10px;
     transition: all 0.5s ease;
 }
+
+img {
+
+    height: 60px;
+    position: relative;
+    right: 250px;
+}
