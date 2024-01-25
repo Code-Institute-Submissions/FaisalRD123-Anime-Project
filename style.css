@@ -13,3 +13,14 @@ nav {
     align-items: center;
     border-radius: 20%;
 }
+
+a {
+    color: black;
+    font-family: "Grape Nuts", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+    transition: all 0.5s ease;
+}
