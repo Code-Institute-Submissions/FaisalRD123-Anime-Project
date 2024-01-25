@@ -1,0 +1,14 @@
+/* Hovering Boxing Animation*/
+#box1:hover {
+    position: relative;
+    top: 10px;
+    border: 5px solid black;
+    border-radius: 10%;
+    transform: scale(1.0);
+    transition: 0.5s ease-in-out;
+    background-color: #fa0808;
+    opacity: 0.9;
+    background-image: url("Images/a1.gif");
+    transition: background-image 5ms ease-in-out;
+
+}
