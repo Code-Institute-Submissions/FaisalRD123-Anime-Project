@@ -1,2 +1,15 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+body {
+    background-color: #E5D9F2;
+}
+
+nav {
+    background-color: #CAA8F5;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20%;
+}
