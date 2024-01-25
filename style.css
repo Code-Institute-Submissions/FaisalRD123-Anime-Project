@@ -56,3 +56,16 @@ main {
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
+/* Logo style */
+.picture {
+    height: 290px;
+    position: relative;
+    left: 200px;
+    top: 60px;
+
+}
+
+.pic {
+    height: 400px;
+}
