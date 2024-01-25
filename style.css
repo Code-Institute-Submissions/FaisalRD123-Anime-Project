@@ -30,6 +30,19 @@ a:hover {
     color: white;
 }
 
+input {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+button:hover {
+    background-color: red;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+
 img {
 
     height: 60px;
