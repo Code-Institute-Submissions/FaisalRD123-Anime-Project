@@ -25,6 +25,11 @@ a {
     transition: all 0.5s ease;
 }
 
+a:hover {
+    background-color: #7560df;
+    color: white;
+}
+
 img {
 
     height: 60px;
