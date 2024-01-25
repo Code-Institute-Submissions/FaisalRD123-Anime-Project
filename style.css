@@ -69,3 +69,16 @@ main {
 .pic {
     height: 400px;
 }
+
+/* Boxes styles */
+#box1 {
+    position: relative;
+    margin-bottom: 30px;
+    height: 500px;
+    width: 400px;
+    background-color: yellow;
+    border: 3px solid black;
+    background-image: url(Images/anime1.jpg);
+    background-size: cover;
+    margin-bottom: 50px;
+}
