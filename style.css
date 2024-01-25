@@ -31,3 +31,10 @@ img {
     position: relative;
     right: 250px;
 }
+
+main {
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
