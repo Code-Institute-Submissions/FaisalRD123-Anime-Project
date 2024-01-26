@@ -317,3 +317,13 @@ footer {
     position: absolute;
     top: 600px;
 }
+
+#contact #contact_me p:hover {
+    background-color: #A42CD6;
+    color: white;
+}
+
+#about_me p:hover {
+    background-color: #A42CD6;
+    color: white;
+}
