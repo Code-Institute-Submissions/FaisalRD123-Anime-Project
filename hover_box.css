@@ -262,3 +262,13 @@
      animation-duration: 1s;
      animation-delay: 0ms;
  }
+
+.anime:hover .description-card {
+       /* Show card on hover */
+       opacity: 1;
+       color: #f0f0f0;
+       background-size: cover;
+       background-position: center;
+       transition: opacity 0.3s ease-in-out;
+       border: 1px solid #ccc;
+}
