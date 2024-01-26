@@ -158,5 +158,11 @@ footer {
     background-color: #730071;
     border: 3px solid black;
     border-radius: 5%;
+}
 
+#footer {
+    margin-top: 75px;
+    background-color: #730071;
+    border: 3px solid black;
+    border-radius: 5%;
 }
