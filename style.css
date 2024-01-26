@@ -275,3 +275,13 @@ footer {
     height: 30%;
     width: 100%;
 }
+
+#contact_me {
+    width: 50%;
+    border: 5px solid black;
+}
+
+#about_me {
+    width: 50%;
+    border: 5px solid black;
+}
