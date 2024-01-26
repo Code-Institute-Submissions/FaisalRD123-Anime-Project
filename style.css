@@ -218,3 +218,11 @@ footer {
     background-position: center;
     flex-grow: 1;
 }
+
+#signup-form {
+    color: white;
+    background-color: #B18FCF;
+    padding: 30px;
+    width: 25%;
+    border: 2px solid yellowgreen;
+}
