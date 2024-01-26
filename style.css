@@ -191,3 +191,15 @@ footer {
 #social-networks>a:hover {
     opacity: 1;
 }
+
+.description-card {
+    position: absolute;  /* Position outside the box flow */
+    top: 100%;   /* Start below the box */
+    left: 0;
+    background-color: #000000;
+    padding: 10px;
+    border-radius: 20%;
+    border: 1px solid #ccc;
+    opacity: 0;   /* Initially hidden */
+    transition: opacity 0.3s ease-in-out;   /* Add a smooth reveal effect */
+}
