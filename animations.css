@@ -67,3 +67,15 @@
         opacity: 1;
     }
 }
+
+@keyframes typing {
+    from {
+        opacity: 0;
+        text-indent: 0;
+    }
+
+    to {
+        opacity: 1;
+        text-indent: 25%;
+    }
+}
