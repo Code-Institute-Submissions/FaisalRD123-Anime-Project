@@ -252,3 +252,10 @@ footer {
     background-color: #6f0def;
     color: #000000;
 }
+
+/* Contact us page */
+
+#contact {
+    height: 100vh;
+    width: 100%;
+}
