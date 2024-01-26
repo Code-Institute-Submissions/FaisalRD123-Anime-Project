@@ -293,3 +293,18 @@ footer {
     background-color: #A0DDFF;
     border: 2px solid black;
 }
+
+#about_me h3 {
+    font-size: 2em;
+    text-align: center;
+}
+
+#contact #contact_me p {
+    color: black;
+    margin-bottom: -30px;
+    font-family: "Grape Nuts", cursive;
+}
+
+#contact_me h3 {
+    text-align: center;
+}
