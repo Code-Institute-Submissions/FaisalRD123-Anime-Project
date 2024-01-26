@@ -308,3 +308,12 @@ footer {
 #contact_me h3 {
     text-align: center;
 }
+
+#about_me p {
+    height: fit-content;
+    width: 46%;
+    color: black;
+    font-family: "Grape Nuts", cursive;
+    position: absolute;
+    top: 600px;
+}
