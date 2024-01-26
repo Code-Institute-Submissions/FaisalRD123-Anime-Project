@@ -285,3 +285,11 @@ footer {
     width: 50%;
     border: 5px solid black;
 }
+
+#contact p {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    padding: 8px 15px;
+    background-color: #A0DDFF;
+    border: 2px solid black;
+}
