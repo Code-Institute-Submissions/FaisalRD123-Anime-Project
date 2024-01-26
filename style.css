@@ -226,3 +226,10 @@ footer {
     width: 25%;
     border: 2px solid yellowgreen;
 }
+
+/* Signup hover effect */
+#signup-form:hover {
+    border: 5px solid coral;
+    border-radius: 9%;
+    transition: all ease-in-out 1s;
+}
