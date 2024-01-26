@@ -174,3 +174,10 @@ footer {
     justify-content: space-evenly;
     list-style-type: none;
 }
+
+#social-networks i>a {
+    font-size: 160%;
+    padding: 5%;
+    color: #ffffff;
+    opacity: 0.8;
+}
