@@ -268,3 +268,10 @@ footer {
     background-size: cover;
     background-position: bottom;
 }
+
+/* Parent of contact_me and about_me */
+#contact_here {
+    display: flex;
+    height: 30%;
+    width: 100%;
+}
