@@ -243,3 +243,12 @@ footer {
     border-radius: 2px;
     padding: 0 5px;
 }
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #6f0def;
+    color: #000000;
+}
