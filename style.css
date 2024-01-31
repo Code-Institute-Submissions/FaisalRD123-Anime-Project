@@ -375,4 +375,18 @@ footer {
         height: 100%;
         margin-bottom: 35px;
       }
+
+      #box1,#box2,#box3,#box4,#box5,#box6{
+        width: 200px; /* Adjust width as needed for smaller screens */
+        height: 300px;
+      }
+
+      #box4,#box5,#box6{
+        margin-bottom: -20px;
+      }
+    
+      .description-card, p {
+        display: none;
+      }
+
   }
