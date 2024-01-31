@@ -346,3 +346,15 @@ footer {
     background-image: url(All_Anime.jpg);
     background-size: cover;
 }
+
+#company p {
+    font-family: "Grape Nuts", cursive;
+    background-color: #E5D9F2;
+    border: 2px solid black;
+    height: fit-content;
+    color: black;
+}
+
+#company h1 {
+    text-align: center;
+}
