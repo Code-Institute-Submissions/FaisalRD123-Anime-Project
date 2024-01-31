@@ -423,5 +423,9 @@ footer {
         margin-left: -90px;
         margin-bottom: 55px;   
       }
+      
+      .anime:hover .description-card, .text {
+        display: none;
+    }
 
   }
