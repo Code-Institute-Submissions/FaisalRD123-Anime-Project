@@ -30,11 +30,6 @@ a {
     color: white;
 }
 
-a:hover {
-    background-color: #7560df;
-    color: white;
-}
-
 input {
     display: flex;
     justify-content: flex-end;
