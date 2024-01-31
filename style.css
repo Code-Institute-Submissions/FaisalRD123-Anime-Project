@@ -358,3 +358,14 @@ footer {
 #company h1 {
     text-align: center;
 }
+
+/* Home Page Button*/
+.homepage {
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: #CAA8F5;
+}
+
+.homepage a:hover {
+    color: white;
+}
