@@ -25,6 +25,11 @@ a {
     transition: all 0.5s ease;
 }
 
+.tracking-in-contract a:hover {
+    background-color: #7560df;
+    color: white;
+}
+
 a:hover {
     background-color: #7560df;
     color: white;
@@ -33,14 +38,6 @@ a:hover {
 input {
     display: flex;
     justify-content: flex-end;
-}
-
-
-button:hover {
-    background-color: red;
-    color: aliceblue;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: larger;
 }
 
 img {
