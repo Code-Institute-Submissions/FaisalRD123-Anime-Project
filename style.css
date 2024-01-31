@@ -384,9 +384,21 @@ footer {
       #box4,#box5,#box6{
         margin-bottom: -20px;
       }
+
+      #box4 {
+        margin-top: 20px;
+      }
     
-      .description-card, p {
+       .anime:hover .description-card, .text {
         display: none;
+      }
+
+      a {
+        font-size: 12px;
+      }
+
+      nav {
+        height: 70px;
       }
 
   }
