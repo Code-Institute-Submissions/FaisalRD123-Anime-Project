@@ -438,4 +438,22 @@ footer {
         display: none;
     }
 
+    /* Signup Form */
+#signup {
+    background-image: url(Images/AllAnime2.jpg);
+    background-size: cover;
+    background-position: center;
+    flex-grow: 1;
+    height: 100vh;
+}
+
+#signup-form {
+    color: white;
+    background-color: #B18FCF;
+    padding: 30px;
+    width: 45%;
+    height: 80%;
+    border: 2px solid yellowgreen;
+}
+
   }
