@@ -401,4 +401,11 @@ footer {
         height: 70px;
       }
 
+      footer {
+        height: 50px;
+      }
+
+      #social-networks {
+        text-align: center;
+      }
   }
