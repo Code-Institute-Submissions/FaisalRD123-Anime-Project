@@ -399,7 +399,8 @@ footer {
     nav {
       height: 70px;
     }
-
+    
+    /* Sign up form */
     #signup-form {
       color: white;
       background-color: #B18FCF;
@@ -407,7 +408,8 @@ footer {
       width: 70%;
       border: 2px solid yellowgreen;
     }
-
+    
+    /* Contact Us */ 
     #contact_image {
         height: 40%;
         width: 100%;
@@ -432,6 +434,11 @@ footer {
       margin-top: 40px;
       margin: 3px;
       font-family: none;
+    }
+
+    #about_me {
+        width: 100%;
+        border: 5px solid black;
     }
 
     #about_me h3 {
