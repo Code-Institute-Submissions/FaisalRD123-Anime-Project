@@ -464,13 +464,9 @@ footer {
 
   /*  For 768 px or higher */
 
-  @media (min-width: 768px) {
+@media (max-width: 768px) {
     nav {
         width: 100%;
-    }
-
-    a {
-        font-size: 20px;
     }
 
     #box1,#box2,#box3,#box4,#box5,#box6{
@@ -497,13 +493,6 @@ footer {
     }
 
     /* Signup Form */
-#signup {
-    background-image: url(Images/AllAnime2.jpg);
-    background-size: cover;
-    background-position: center;
-    flex-grow: 1;
-    height: 100vh;
-}
 
 #signup-form {
     color: white;
