@@ -370,42 +370,42 @@ footer {
       margin-bottom: 55px;   
     }
     .pic{
-        width: 100%; 
-        height: 100%;
-        margin-bottom: 35px;
+      width: 100%; 
+      height: 100%;
+      margin-bottom: 35px;
     }
 
-      #box1,#box2,#box3,#box4,#box5,#box6{
-        width: 200px; /* Adjust width as needed for smaller screens */
-        height: 300px;
+    #box1,#box2,#box3,#box4,#box5,#box6{
+      width: 200px; /* Adjust width as needed for smaller screens */
+      height: 300px;
     }
 
-      #box4,#box5,#box6{
-        margin-bottom: -20px;
+    #box4,#box5,#box6{
+      margin-bottom: -20px;
     }
 
-      #box4 {
-        margin-top: 20px;
+    #box4 {
+      margin-top: 20px;
     }
     
-       .anime:hover .description-card, .text {
-        display: none;
+    .anime:hover .description-card, .text {
+      display: none;
     }
 
-      a {
-        font-size: 12px;
+    a {
+      font-size: 12px;
     }
 
-      nav {
-        height: 70px;
+    nav {
+      height: 70px;
     }
 
     #signup-form {
-        color: white;
-        background-color: #B18FCF;
-        padding-left: 10px;
-        width: 70%;
-        border: 2px solid yellowgreen;
+      color: white;
+      background-color: #B18FCF;
+      padding-left: 10px;
+      width: 70%;
+      border: 2px solid yellowgreen;
     }
 
   }
