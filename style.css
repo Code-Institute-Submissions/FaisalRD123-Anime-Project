@@ -197,6 +197,7 @@ footer {
     top: 100%;
     /* Start below the box */
     left: 0;
+    height: 100px;
     background-color: #000000;
     padding: 10px;
     border-radius: 20%;
@@ -281,21 +282,33 @@ footer {
 
 #contact_me {
     width: 50%;
-    height: 80%;
+    height: 100%;
     border: 5px solid black;
 }
 
 #about_me {
     width: 50%;
-    height: 80%;
+    height: 100%;
     border: 5px solid black;
 }
 
-#contact p {
+#about_me p {
     font-family: 'Lato', sans-serif;
-    color: white;
-    padding: 8px 15px;
+    color: black;
+    height: 80px;
+    padding: 15px;
     background-color: #A0DDFF;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+#contact_me p {
+    font-family: 'Lato', sans-serif;
+    color: black;
+    height: 40px;
+    padding: 15px;
+    background-color: #A0DDFF;
+    margin: 10px;
     border: 2px solid black;
 }
 
@@ -304,23 +317,8 @@ footer {
     text-align: center;
 }
 
-#contact #contact_me p {
-    color: black;
-    margin-bottom: -30px;
-    font-family: "Grape Nuts", cursive;
-}
-
 #contact_me h3 {
     text-align: center;
-}
-
-#about_me p {
-    height: fit-content;
-    width: 46%;
-    color: black;
-    font-family: "Grape Nuts", cursive;
-    position: absolute;
-    top: 600px;
 }
 
 #contact #contact_me p:hover {
@@ -360,7 +358,7 @@ footer {
     text-align: center;
 }
 
-/* Home Page Button*/
+/* Home Page*/
 .homepage {
     border-radius: 10px;
     border: 2px solid black;
@@ -368,6 +366,7 @@ footer {
 }
 
 .homepage a:hover {
+    background-color: #7560df;
     color: white;
 }
 
