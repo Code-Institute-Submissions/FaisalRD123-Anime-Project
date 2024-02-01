@@ -461,12 +461,12 @@ footer {
     }
 
     #about_me p {
-        height: fit-content;
-        width: 80%;
-        color: black;
-        position: absolute;
-        top: 573px;
-        margin-left: 3px;
+      height: 200px;
+      width: 90%;
+      color: black;
+      position: absolute;
+      top: 565px;
+      margin-left: 8px;
     }
 }
 
