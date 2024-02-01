@@ -460,25 +460,30 @@ footer {
         top: 573px;
         margin-left: 3px;
     }
-
 }
 
-  /*  */
+  /*  For 768 px or higher */
 
-  @media (max-width: 768px) {
+  @media (min-width: 768px) {
     nav {
         width: 100%;
     }
 
     a {
-        font-size: 12px;
+        font-size: 20px;
     }
 
     #box1,#box2,#box3,#box4,#box5,#box6{
-        width: 200px; /* Adjust width as needed for smaller screens */
+        width: 300px; /* Adjust width as needed for smaller screens */
         height: 300px;
         display: flex;
         flex-wrap: wrap;
+        margin-right: -15px;
+    }
+    
+    /* Fixing the 4th box */
+    #box4 {      
+      margin-top: auto;
     }
 
     .pic img{
@@ -509,4 +514,19 @@ footer {
     border: 2px solid yellowgreen;
 }
 
-  }
+#about_me p {
+    height: fit-content;
+    width: 40%;
+    color: black;
+    font-family: "Grape Nuts", cursive;
+    position: absolute;
+    top: 770px;
+    margin-left: 10px;
+}
+
+#about_image {
+    width: 100%;
+    background-size: cover;
+}
+
+}
