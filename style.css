@@ -264,7 +264,7 @@ footer {
 }
 
 #contact_image {
-    height: 65%;
+    height: 70%;
     width: 100%;
     border: 5px solid black;
     background-image: url(Images/gokuui.jpg);
@@ -281,11 +281,13 @@ footer {
 
 #contact_me {
     width: 50%;
+    height: 80%;
     border: 5px solid black;
 }
 
 #about_me {
     width: 50%;
+    height: 80%;
     border: 5px solid black;
 }
 
@@ -461,12 +463,12 @@ footer {
     }
 
     #about_me p {
-      height: 200px;
-      width: 90%;
-      color: black;
-      position: absolute;
-      top: 565px;
-      margin-left: 8px;
+        height: 201px;
+        width: 90%;
+        color: black;
+        position: absolute;
+        top: 573px;
+        margin-left: 12px;
     }
 }
 
@@ -502,7 +504,7 @@ footer {
 
     /* Signup Form */
 
-#signup-form {
+  #signup-form {
     color: white;
     background-color: #B18FCF;
     padding: 30px;
@@ -511,7 +513,7 @@ footer {
     border: 2px solid yellowgreen;
 }
 
-#about_me p {
+  #about_me p {
     height: fit-content;
     width: 40%;
     color: black;
@@ -521,7 +523,16 @@ footer {
     margin-left: 10px;
 }
 
-#about_image {
+  #contact #contact_me p {
+    height: 60px;
+    color: black;
+    margin-top: 40px;
+    margin: 15px;
+    font-family: none;
+  }
+
+  #about_image {
+    height: 80%;
     width: 100%;
     background-size: cover;
 }
