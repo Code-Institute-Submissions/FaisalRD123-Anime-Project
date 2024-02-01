@@ -1,6 +1,13 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: #E5D9F2;
 }
@@ -362,7 +369,7 @@ footer {
     color: white;
 }
 
-@media (max-width: 576px) {
+@media screen and (max-width: 576px) and (min-width: 200px) {
     .pic img{
       width: 50%; /* Adjust width as needed for smaller screens */
       height: 30%; 
@@ -430,6 +437,7 @@ footer {
     }
 
     #contact #contact_me p {
+      height: 60px;
       color: black;
       margin-top: 40px;
       margin: 3px;
@@ -464,14 +472,14 @@ footer {
 
   /*  For 768 px or higher */
 
-@media (max-width: 768px) {
+  @media screen and (max-width: 768px) and (min-width: 577px) {
     nav {
         width: 100%;
     }
 
     #box1,#box2,#box3,#box4,#box5,#box6{
         width: 300px; /* Adjust width as needed for smaller screens */
-        height: 300px;
+        height: 250px;
         display: flex;
         flex-wrap: wrap;
         margin-right: -15px;
@@ -499,7 +507,7 @@ footer {
     background-color: #B18FCF;
     padding: 30px;
     width: 45%;
-    height: 50%;
+    height: 100%;
     border: 2px solid yellowgreen;
 }
 
