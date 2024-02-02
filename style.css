@@ -108,7 +108,7 @@ main {
 #box6 {
     margin-bottom: 30px;
     margin-top: 60px;
-    background-image: url(Images/anime6.webp);
+    background-image: url(Images/anime6.jpg);
 }
 
 p {
@@ -185,6 +185,7 @@ footer {
     background-size: cover;
     background-position: center;
     flex-grow: 1;
+    height: 1200px;
 }
 
 #signup-form {
@@ -193,6 +194,7 @@ footer {
     padding: 30px;
     width: 25%;
     border: 2px solid yellowgreen;
+    height: 50%;
 }
 
 /* Signup hover effect */
@@ -246,15 +248,14 @@ footer {
 
 #contact_me, #about_me {
     width: 50%;
-    height: 100%;
+    height: 300px;
     border: 5px solid black;
 }
 
 
-#about_me p {
+#about_me p, #contact_me p {
     font-family: 'Lato', sans-serif;
     color: black;
-    height: 80px;
     padding: 15px;
     background-color: #A0DDFF;
     margin: 10px;
@@ -262,30 +263,19 @@ footer {
 }
 
 #contact_me p {
-    font-family: 'Lato', sans-serif;
-    color: black;
-    height: 40px;
-    padding: 15px;
-    background-color: #A0DDFF;
-    margin: 10px;
-    border: 2px solid black;
+    height: 40px; 
 }
 
-#about_me h3 {
+#about_me p {
+    height: 100px; 
+}
+
+#about_me h3, #contact_me h3 {
     font-size: 2em;
     text-align: center;
 }
 
-#contact_me h3 {
-    text-align: center;
-}
-
-#contact #contact_me p:hover {
-    background-color: #A42CD6;
-    color: white;
-}
-
-#about_me p:hover {
+#contact #contact_me p:hover, #about_me p:hover  {
     background-color: #A42CD6;
     color: white;
 }
@@ -293,7 +283,7 @@ footer {
 /* About Us */
 
 #about {
-    height: 100vh;
+    height: 100%;
     width: 100%;
 }
 
@@ -329,7 +319,9 @@ footer {
     color: white;
 }
 
-@media screen and (max-width: 576px) and (min-width: 200px) {
+   /*  Between 576px and 200px */ 
+
+@media screen and (max-width: 576px) and (min-width: 190px) {
     .pic img{
       width: 50%; /* Adjust width as needed for smaller screens */
       height: 30%; 
@@ -373,12 +365,13 @@ footer {
       background-color: #B18FCF;
       padding-left: 10px;
       width: 70%;
+      height: 55%;
       border: 2px solid yellowgreen;
     }
     
     /* Contact Us */ 
     #contact_image {
-        height: 40%;
+        height: 80%;
         width: 100%;
         border: 5px solid black;
         background-image: url(Images/gokuui.webp);
@@ -386,42 +379,26 @@ footer {
         background-position: bottom;
     }
 
-    #contact_here {
-        display: flex;
-        flex-direction: column; 
-    }
-
-    #contact_me {
-        width: 100%;
+    #contact_me, #about_me {
+        height: 20px;
         border: 5px solid black;
     }
 
     #contact #contact_me p {
-      height: 60px;
+      height: 70px;
       color: black;
       margin-top: 40px;
       margin: 3px;
       font-family: none;
     }
 
-    #about_me {
-        width: 100%;
-        border: 5px solid black;
-    }
-
-    #about_me h3 {
-        text-align: center;
-        margin-top: 10px;
-        height: 250px;
-    }
-
-    #contact_me h3 {
+    #about_me h3, #contact_me h3  {
         text-align: center;
         margin-top: 10px;
     }
 
     #about_me p {
-        height: 201px;
+        height: 300px;
         width: 90%;
         color: black;
         position: absolute;
@@ -430,9 +407,9 @@ footer {
     }
 }
 
-  /*  For 768 px or higher */
+  /*  Between 768px and 577px */
 
-  @media screen and (max-width: 768px) and (min-width: 577px) {
+  @media screen and (max-width: 770px) and (min-width: 577px) {
     nav {
         width: 100%;
     }
@@ -462,37 +439,37 @@ footer {
 
     /* Signup Form */
 
-  #signup-form {
-    color: white;
-    background-color: #B18FCF;
-    padding: 30px;
-    width: 45%;
-    height: 100%;
-    border: 2px solid yellowgreen;
+    #signup-form {
+      color: white;
+      background-color: #B18FCF;
+      padding: 30px;
+      width: 45%;
+      height: 50%;
+      border: 2px solid yellowgreen;
 }
 
-  #about_me p {
-    height: fit-content;
-    width: 40%;
-    color: black;
-    font-family: "Grape Nuts", cursive;
-    position: absolute;
-    top: 770px;
-    margin-left: 10px;
-}
+    #about_me p {
+      height: 100px;
+      width: 40%;
+      color: black;
+      font-family: "Grape Nuts", cursive;
+      position: absolute;
+      top: 770px;
+      margin-left: 10px;
+} 
 
-  #contact #contact_me p {
-    height: 60px;
-    color: black;
-    margin-top: 40px;
-    margin: 15px;
-    font-family: none;
+    #contact #contact_me p {
+      height: 60px;
+      color: black;
+      margin-top: 40px;
+      margin: 15px;
+      font-family: none;
   }
 
-  #about_image {
-    height: 80%;
-    width: 100%;
-    background-size: cover;
+    #about_image {
+      height: 80%;
+      width: 100%;
+      background-size: cover;
 }
 
 }
