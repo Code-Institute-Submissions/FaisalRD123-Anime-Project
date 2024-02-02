@@ -247,7 +247,7 @@ footer {
     width: 100%;
 }
 
-#contact_me #about_me {
+#contact_me, #about_me {
     width: 50%;
     height: 100%;
     border: 5px solid black;
