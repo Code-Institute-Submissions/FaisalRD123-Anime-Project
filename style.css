@@ -81,28 +81,28 @@ main {
 }
 
 #box1 {
-    background-image: url(Images/anime1.jpg);
+    background-image: url(Images/anime1.webp);
 }
 
 
 #box2 {
-    background-image: url(Images/anime2.jpg);
+    background-image: url(Images/anime2.webp);
 }
 
 #box3 {
-    background-image: url(Images/anime3.png);
+    background-image: url(Images/anime3.webp);
 }
 
 #box4 {
     margin-bottom: 30px;
     margin-top: 60px;
-    background-image: url(Images/anime4.jpg);
+    background-image: url(Images/anime4.webp);
 }
 
 #box5 {
     margin-bottom: 30px;
     margin-top: 60px;
-    background-image: url(Images/anime5.jpeg);
+    background-image: url(Images/anime5.webp);
 }
 
 #box6 {
@@ -152,9 +152,6 @@ footer {
 #social-networks a:hover {
     background-color: #7560df;
     color: white;
-}
-
-#social-networks>a:hover {
     opacity: 1;
 }
 
@@ -184,7 +181,7 @@ footer {
 
 /* Signup Form */
 #signup {
-    background-image: url(Images/AllAnime2.jpg);
+    background-image: url(Images/AllAnime2.webp);
     background-size: cover;
     background-position: center;
     flex-grow: 1;
@@ -235,7 +232,7 @@ footer {
     height: 70%;
     width: 100%;
     border: 5px solid black;
-    background-image: url(Images/gokuui.jpg);
+    background-image: url(Images/gokuui.webp);
     background-size: cover;
     background-position: bottom;
 }
@@ -304,7 +301,7 @@ footer {
     height: 80%;
     width: 100%;
     border: 5px solid black;
-    background-image: url(Images/All_Anime.jpg);
+    background-image: url(Images/All_Anime.webp);
     background-size: cover;
 }
 
@@ -384,7 +381,7 @@ footer {
         height: 40%;
         width: 100%;
         border: 5px solid black;
-        background-image: url(Images/gokuui.jpg);
+        background-image: url(Images/gokuui.webp);
         background-size: cover;
         background-position: bottom;
     }
