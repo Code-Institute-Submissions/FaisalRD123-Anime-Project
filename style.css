@@ -70,78 +70,45 @@ main {
 }
 
 /* Boxes styles */
-#box1 {
+#box1, #box2, #box3, #box4, #box5, #box6 {
     position: relative;
-    margin-bottom: 30px;
     height: 500px;
     width: 400px;
     background-color: yellow;
     border: 3px solid black;
-    background-image: url(Images/anime1.jpg);
     background-size: cover;
     margin-bottom: 50px;
 }
 
-#box2 {
-    position: relative;
-    margin-bottom: 30px;
-    height: 500px;
-    width: 400px;
-    background-color: yellow;
-    border: 3px solid black;
-    background-image: url(Images/anime2.jpg);
-    background-size: cover;
+#box1 {
+    background-image: url(Images/anime1.jpg);
+}
 
+
+#box2 {
+    background-image: url(Images/anime2.jpg);
 }
 
 #box3 {
-    position: relative;
-    margin-bottom: 30px;
-    height: 500px;
-    width: 400px;
-    background-color: yellow;
-    border: 3px solid black;
     background-image: url(Images/anime3.png);
-    background-size: cover;
-
 }
 
 #box4 {
-    position: relative;
     margin-bottom: 30px;
-    height: 500px;
-    width: 400px;
-    background-color: yellow;
-    border: 3px solid black;
     margin-top: 60px;
     background-image: url(Images/anime4.jpg);
-    background-size: cover;
-
 }
 
 #box5 {
-    position: relative;
     margin-bottom: 30px;
-    height: 500px;
-    width: 400px;
-    background-color: yellow;
-    border: 3px solid black;
     margin-top: 60px;
     background-image: url(Images/anime5.jpeg);
-    background-size: cover;
-
 }
 
 #box6 {
-    position: relative;
     margin-bottom: 30px;
-    height: 500px;
-    width: 400px;
-    background-color: yellow;
-    border: 3px solid black;
     margin-top: 60px;
     background-image: url(Images/anime6.webp);
-    background-size: cover;
 }
 
 p {
@@ -280,17 +247,12 @@ footer {
     width: 100%;
 }
 
-#contact_me {
+#contact_me #about_me {
     width: 50%;
     height: 100%;
     border: 5px solid black;
 }
 
-#about_me {
-    width: 50%;
-    height: 100%;
-    border: 5px solid black;
-}
 
 #about_me p {
     font-family: 'Lato', sans-serif;
