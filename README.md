@@ -2,7 +2,7 @@
 
 (Developer: Faisal)
 
-![Mockup image]()
+![Mockup image](/assets/images/all_anime.webp)
 
 [Live webpage](https://faisalrd123.github.io/Anime-Project/)
 
