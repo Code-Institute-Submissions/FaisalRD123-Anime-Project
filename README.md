@@ -52,3 +52,10 @@ Target Audience
 * Mostly teenagers as they contained the most targeted audience.
 
 User requirements and Expectations
+
+* A simple and easy to use UI so people don't get lost.
+* Functions and links that should work as expected.
+* A good animated UI to capture user attention.
+* Accessibility and good communication system.
+* Shall look good on all kind of user screens.
+* Good hovering effect.
