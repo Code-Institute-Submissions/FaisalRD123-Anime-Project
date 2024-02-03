@@ -248,33 +248,37 @@ Bugs
 * Animations were not working.
 * 2nd row of anime overlapping the first row.
 * Contact_Us page div’s weren’t working properly.
-Fixes
+* Fixes
 * Added required so they have to submit all details.
 * Added “target = _blank” to open in a new tab.
 * Changed mp4 to gif to make it work.
 * Added margin-top to separate them.
 * Created a parent div to give it a display flex.
-Credits
-None of the images and gifs belongs to me. They were taken from different sites. All credit goes to them.
-Favicon
-The favicon was created on https://favicon.io/.
-Images
-The images were taken from the following sites:
+* 
+* Credits
+* None of the images and gifs belongs to me. They were taken from different sites. All credit goes to them.
+* 
+* Favicon
+* The favicon was created on https://favicon.io/.
+* 
+* Images
+* The images were taken from the following sites:
 1.	https://wallpapers.com/cool-anime
 2.	https://anime-pictures.net/
 3.	https://pixabay.com/images/search/anime/
-<br>
+
 Gifs
 The gifs were taken from the following sites:
 1.	https://gifs.alphacoders.com/by_category/3
 2.	https://giphy.com/explore/anime
-<br>
+
+
 Fonts
 The fonts were taken from Google Font.
+
+
 Colours
 The colours were taken from https://coolors.co/.
-
-
 
 Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
