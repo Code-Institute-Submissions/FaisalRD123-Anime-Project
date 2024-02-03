@@ -165,3 +165,12 @@ Sign Up Page
 <img src="/docs/pics/Sign_up.PNG">
 
 
+Contact Us Page
+
+* This page contains a big image on top for visual effect.
+* The bottom part is divided equally in 2 parts, one about the contact details and other is about myself.
+* There is a homepage button with a hover effect that takes the user back to the main page.
+
+<img src="/docs/pics/About.PNG">
+
+
