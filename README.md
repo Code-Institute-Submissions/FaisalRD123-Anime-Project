@@ -82,21 +82,21 @@ Site Owner
 
 Wire Frames
 Home Page (Normal)
-<img src="/docs/wireframes/Main_Page.PNG">
+<img src="/docs/wireframes/main_page.PNG">
 Home Page (Mobile)
-<img src="/docs/wireframes/Main_Mobile.PNG">
+<img src="/docs/wireframes/main_mobile.PNG">
 Home Page (IPad)
-<img src="/docs/wireframes/Main.PNG">
+<img src="/docs/wireframes/main.PNG">
 Sign Up (Normal)
-<img src="/docs/wireframes/SignUp_Page.PNG">
+<img src="/docs/wireframes/signup_page.PNG">
 Sign Up (Mobile)
-<img src="/docs/wireframes/SignUp_Mobile.PNG">
+<img src="/docs/wireframes/signup_mobile.PNG">
 Sign up (IPad)
-<img src="/docs/wireframes/SignUp_Ipad.PNG">
+<img src="/docs/wireframes/signup_ipad.PNG">
 Contact Us
-<img src="/docs/wireframes/Contact_Me.PNG">
+<img src="/docs/wireframes/contact_me.PNG">
 About Us 
-<img src="/docs/wireframes/About_Me.PNG">
+<img src="/docs/wireframes/about_me.PNG">
 
 Design
 
@@ -106,7 +106,7 @@ The website is designed in such a way to make users feel excited and pump. Almos
 Colour
 The colour scheme for my site is mostly bright but calm at the same time to give a kinda Yin/Yang feeling as anime is mostly loved for its fights and colorful personalities.
 The color are chosen from mostly cooler color contrast as it has a wide range of colors available.
-<img src="/docs/pics/Color_Picker.PNG">
+<img src="/docs/pics/color_picker.PNG">
 
 Fonts
 Mostly, 'Grapenuts' font is used for the site. It is taken from google font.
@@ -141,11 +141,11 @@ Navigation Bar
 * Contact Me page contains a little information about me and About Us page is a little summary about the site. Both Contact Me and About Us pages have Homepage button that takes you back to main page.
 
 Nav 1
-<img src="/docs/pics/Nav1.PNG">
+<img src="/docs/pics/nav1.PNG">
 Nav 2
-<img src="/docs/pics/Nav2.PNG">
+<img src="/docs/pics/nav2.PNG">
 Nav 3
-<img src="/docs/pics/Nav3.PNG">
+<img src="/docs/pics/nav3.PNG">
 
 The Landing Page 
 
@@ -154,15 +154,15 @@ The Landing Page
 * The pictures are static unless you hover over them. On hover, there is an animation style and a small paragraph about the anime.
 * The text on top of the animation opens the animation tab.
   
-<img src="/docs/pics/Landing_Page1.PNG">
-<img src="/docs/pics/Landing_Page2.PNG">
+<img src="/docs/pics/landing_page1.PNG">
+<img src="/docs/pics/landing_page2.PNG">
 
 Sign Up Page
 
 * This page will allow the user to sign up to use the Fanime. It asks the user their name, email, password and age. There is an age restriction tag added so the user cannot enter 0 or below 0 digit.
 * There is a nice smooth hover effect when hovering over sign up page.
 
-<img src="/docs/pics/Sign_up.PNG">
+<img src="/docs/pics/sign_up.PNG">
 
 
 Contact Us Page
@@ -171,11 +171,11 @@ Contact Us Page
 * The bottom part is divided equally in 2 parts, one about the contact details and other is about myself.
 * There is a homepage button with a hover effect that takes the user back to the main page.
 
-<img src="/docs/pics/Contact.PNG">
+<img src="/docs/pics/contact.PNG">
 
 About Us Page
 
 * This page is about the motivation and objectives of the site.
 * There is a homepage button with a hover effect that takes the user back to the main page.
 
-<img src="/docs/pics/About.PNG">
+<img src="/docs/pics/about.PNG">

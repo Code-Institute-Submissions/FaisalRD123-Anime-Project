@@ -74,15 +74,15 @@ main {
 }
 
 #box1 {
-    background-image: url(/assets/images/Naruto.webp);
+    background-image: url(/assets/images/naruto.webp);
 }
 
 #box2 {
-    background-image: url(/assets/images/Jujutsu.webp);
+    background-image: url(/assets/images/jujutsu.webp);
 }
 
 #box3 {
-    background-image: url(/assets/images/One_Piece.webp);
+    background-image: url(/assets/images/one_piece.webp);
 }
 
 #box4, #box5, #box6 {
@@ -91,15 +91,15 @@ main {
 }
 #box4 {
   
-    background-image: url(/assets/images/Dragon_Ball.webp);
+    background-image: url(/assets/images/dragon_ball.webp);
 }
 
 #box5 {
-    background-image: url(/assets/images/Demon_Slayer.webp);
+    background-image: url(/assets/images/demon_slayer.webp);
 }
 
 #box6 {
-    background-image: url(/assets/images/DeathNote.webp);
+    background-image: url(/assets/images/deathnote.webp);
 }
 
 p {
@@ -172,7 +172,7 @@ footer {
 
 /* Signup Form */
 #signup {
-    background-image: url(/assets/images/AllAnime2.webp);
+    background-image: url(/assets/images/allanime2.webp);
     background-size: cover;
     background-position: center;
     flex-grow: 1;
@@ -282,7 +282,7 @@ footer {
     height: 80%;
     width: 100%;
     border: 5px solid black;
-    background-image: url(/assets/images/All_Anime.webp);
+    background-image: url(/assets/images/all_anime.webp);
     background-size: cover;
 }
 
