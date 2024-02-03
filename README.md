@@ -173,4 +173,9 @@ Contact Us Page
 
 <img src="/docs/pics/Contact.PNG">
 
+About Us Page
 
+* This page is about the motivation and objectives of the site.
+* There is a homepage button with a hover effect that takes the user back to the main page.
+
+<img src="/docs/pics/About.PNG">
