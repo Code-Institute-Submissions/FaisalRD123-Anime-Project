@@ -108,3 +108,34 @@ The colour scheme for my site is mostly bright but calm at the same time to give
 The color are chosen from mostly cooler color contrast as it has a wide range of colors available.
 <img src="/docs/pics/Color_Picker.PNG">
 
+Fonts
+Mostly, 'Grapenuts' font is used for the site. It is taken from google font.
+
+Structure of the site
+The structure of my site is very easy to follow, creative and user friendly.
+* The main page consists of three main sections; header (includes link to other pages), body (anime videos) and footer (social media links).
+* A sign up page with a sign up form with hovering effect.
+* Contact us page that includes my personal contact details and a little about myself.
+* About us that includes about the site and our motivation.
+
+Technologies used
+
+Frameworks and Tools
+
+* Visual Studio Code
+* Git
+* Balsamiq
+* Cooler Color Contrast
+* Google Font
+
+Language used
+
+* CSS
+* HTML
+
+Features
+
+Navigation Bar
+
+* Featured on all three pages, the full responsive navigation bar includes links to the Home, Sign Up page, Contact Me and About Us. All pages are simple and easy to navigate.
+* Contact Me page contains a little information about me and About Us page is a little summary about the site. Both Contact Me and About Us pages have Homepage button that takes you back to main page.
