@@ -43,9 +43,6 @@ input {
 }
 
 img {
-
-    height: 60px;
-    position: relative;
     right: 250px;
 }
 
@@ -65,10 +62,6 @@ main {
 
 }
 
-.pic {
-    height: 400px;
-}
-
 /* Boxes styles */
 #box1, #box2, #box3, #box4, #box5, #box6 {
     position: relative;
@@ -84,7 +77,6 @@ main {
     background-image: url(Images/anime1.webp);
 }
 
-
 #box2 {
     background-image: url(Images/anime2.webp);
 }
@@ -93,22 +85,21 @@ main {
     background-image: url(Images/anime3.webp);
 }
 
-#box4 {
+#box4, #box5, #box6 {
     margin-bottom: 30px;
     margin-top: 60px;
+}
+#box4 {
+  
     background-image: url(Images/anime4.webp);
 }
 
 #box5 {
-    margin-bottom: 30px;
-    margin-top: 60px;
     background-image: url(Images/anime5.webp);
 }
 
 #box6 {
-    margin-bottom: 30px;
-    margin-top: 60px;
-    background-image: url(Images/anime6.jpg);
+    background-image: url(Images/anime6.webp);
 }
 
 p {
@@ -119,18 +110,18 @@ p {
 }
 
 /* Footer */
-footer {
-    margin-top: 5px;
+footer, #footer {  
     background-color: #730071;
     border: 3px solid black;
     border-radius: 5%;
 }
 
+footer {
+    margin-top: 5px;
+}
+
 #footer {
     margin-top: 75px;
-    background-color: #730071;
-    border: 3px solid black;
-    border-radius: 5%;
 }
 
 #social-networks {
@@ -189,7 +180,7 @@ footer {
 }
 
 #signup-form {
-    color: white;
+    color: black;
     background-color: #B18FCF;
     padding: 30px;
     width: 25%;
@@ -219,7 +210,7 @@ footer {
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: #6f0def;
+    background-color: #e64804;
     color: #000000;
 }
 
@@ -283,7 +274,7 @@ footer {
 /* About Us */
 
 #about {
-    height: 100%;
+    height: 100vh;
     width: 100%;
 }
 
@@ -312,11 +303,6 @@ footer {
     border-radius: 10px;
     border: 2px solid black;
     background-color: #CAA8F5;
-}
-
-.homepage a:hover {
-    background-color: #7560df;
-    color: white;
 }
 
    /*  Between 576px and 200px */ 
@@ -380,16 +366,17 @@ footer {
     }
 
     #contact_me, #about_me {
-        height: 20px;
+        height: 471px;
         border: 5px solid black;
     }
 
     #contact #contact_me p {
-      height: 70px;
-      color: black;
-      margin-top: 40px;
-      margin: 3px;
-      font-family: none;
+        height: 120px;
+        color: black;
+        margin-top: 40px;
+        margin: 3px;
+        font-family: none;
+        text-align: start;
     }
 
     #about_me h3, #contact_me h3  {
@@ -398,12 +385,11 @@ footer {
     }
 
     #about_me p {
-        height: 300px;
-        width: 90%;
+        height: 365px;
+        width: 45%;
         color: black;
         position: absolute;
-        top: 573px;
-        margin-left: 12px;
+        margin-left: 1px;
     }
 }
 
@@ -449,7 +435,7 @@ footer {
 }
 
     #about_me p {
-      height: 100px;
+      height: 200px;
       width: 40%;
       color: black;
       font-family: "Grape Nuts", cursive;
