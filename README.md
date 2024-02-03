@@ -46,10 +46,3 @@ Project Goals
 * Creating a website where the users can find all kind of different anime.
 * Cool backgrounds and animated features.
 * Extra attention to different hovering effect to make it cooler and appealing to the new users.
-
-Site Owner Goals 
-
-* Increase the number of daily users visiting the site.
-* Try to capture global audience.
-* Increase communication between site owner and users for better features in the future.
-
