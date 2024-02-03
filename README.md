@@ -37,4 +37,6 @@
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
     
-    
+Introduction
+
+Fanime is a site for anime lovers to have a platform to watch their favourite anime. At Fanime, I am committed to creating a lively community of devoted anime fans who are brought together by their love of the many genres and intricate storytelling that anime has to offer. My website is intended to be your ideal companion while you explore, discover, and connect with the huge and fascinating world of anime, regardless of how experienced you are as an enthusiast or how you are just beginning your anime journey.
