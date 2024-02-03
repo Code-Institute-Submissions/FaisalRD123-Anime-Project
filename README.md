@@ -139,3 +139,10 @@ Navigation Bar
 
 * Featured on all three pages, the full responsive navigation bar includes links to the Home, Sign Up page, Contact Me and About Us. All pages are simple and easy to navigate.
 * Contact Me page contains a little information about me and About Us page is a little summary about the site. Both Contact Me and About Us pages have Homepage button that takes you back to main page.
+
+Nav 1
+<img src="/docs/pics/Nav1.PNG">
+Nav 2
+<img src="/docs/pics/Nav2.PNG">
+Nav 3
+<img src="/docs/pics/Nav3.PNG">
