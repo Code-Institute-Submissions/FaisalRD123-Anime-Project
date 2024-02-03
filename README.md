@@ -97,3 +97,13 @@ Contact Us
 <img src="/docs/wireframes/Contact_Me.PNG">
 About Us 
 <img src="/docs/wireframes/About_Me.PNG">
+
+Design
+
+Design Choices
+The website is designed in such a way to make users feel excited and pump. Almost all the buttons have hover effect and quite some animations especially about fights as it is the most popular anime genre.
+
+Colour
+The colour scheme for my site is mostly bright but calm at the same time to give a kinda Yin/Yang feeling as anime is mostly loved for its fights and colorful personalities.
+The color are chosen from mostly cooler color contrast as it has a wide range of colors available.
+
