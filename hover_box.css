@@ -1,26 +1,26 @@
 /* Hovering Boxing Animation*/
 #box1:hover {
-    background-image: url("Images/a1.gif");
+    background-image: url("Images/Naruto_Animation.gif");
 }
 
 #box2:hover {
-    background-image: url("Images/a2.gif"); 
+    background-image: url("Images/jujutsu_Animation.gif"); 
 }
 
 #box3:hover {
-    background-image: url("Images/a3.gif");
+    background-image: url("Images/One_piece_Animation.gif");
 }
 
 #box4:hover {
-    background-image: url("Images/a4.gif");
+    background-image: url("Images/Dragon_Ball_Animation.gif");
 }
 
 #box5:hover {
-    background-image: url("Images/a5.gif");
+    background-image: url("Images/Demon_Slayer_Animation.gif");
 }
 
 #box6:hover {
-    background-image: url("Images/a6.gif");
+    background-image: url("Images/Death_Note_Animation.gif");
 }
 
 
