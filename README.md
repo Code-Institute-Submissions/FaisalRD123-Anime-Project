@@ -240,3 +240,54 @@ Contact_US Performance
 
 About Us Performance
 <img src="/docs/performance/about.PNG">
+
+Bugs
+
+1-	User could submit all the details without writing anything.
+2-	External links opening on the same page.
+3-	Animations were not working.
+4-	2nd row of anime overlapping the first row.
+5-	Contact_Us page div’s weren’t working properly.
+Fixes
+1-	Added required so they have to submit all details.
+2-	Added “target = _blank” to open in a new tab.
+3-	Changed mp4 to gif to make it work.
+4-	Added margin-top to separate them.
+5-	Created a parent div to give it a display flex.
+Credits
+None of the images and gifs belongs to me. They were taken from different sites. All credit goes to them.
+Favicon
+The favicon was created on https://favicon.io/.
+Images
+The images were taken from the following sites:
+1.	https://wallpapers.com/cool-anime
+2.	https://anime-pictures.net/
+3.	https://pixabay.com/images/search/anime/
+Gifs
+The gifs were taken from the following sites:
+1.	https://gifs.alphacoders.com/by_category/3
+2.	https://giphy.com/explore/anime
+Fonts
+The fonts were taken from Google Font.
+Colours
+The colours were taken from https://coolors.co/.
+
+
+
+Deployment
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+•	In the GitHub repository, go to the Settings tab.
+•	In the Generals section, go to Pages.
+•	Source: deploy from branch. The branch should be main and folder was root.
+•	Go to codes, on the right side, click GitHub-pages.
+The live link can be found here - https://faisalrd123.github.io/Anime-Project/.
+
+Future Work
+For the future work, a lot of new animes can be added to the site. For now, there are only 6 while hundreds of thousands are available on the internet that can be deployed on this site. Also, for the manga lovers, a manga page can be created where a lot of manga can be deployed for the users to enjoy. 
+Animations made the website quite slow. Better implementation of animations will work wonders on the site.
+
+Acknowledgements
+Last but not least, I would like to thank the following people who helped me achieve this achievement.
+•	Mo Shami, my mentor, who gave me advice, support and feedback throughout the project.
+•	My friend, Zayn, who gave the idea of the site and taught me a lot about HTML and CSS.
+
