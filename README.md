@@ -171,6 +171,6 @@ Contact Us Page
 * The bottom part is divided equally in 2 parts, one about the contact details and other is about myself.
 * There is a homepage button with a hover effect that takes the user back to the main page.
 
-<img src="/docs/pics/About.PNG">
+<img src="/docs/pics/Contact.PNG">
 
 
