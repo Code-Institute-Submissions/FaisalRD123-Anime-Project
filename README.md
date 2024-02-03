@@ -179,3 +179,31 @@ About Us Page
 * There is a homepage button with a hover effect that takes the user back to the main page.
 
 <img src="/docs/pics/about.PNG">
+
+Validation 
+
+HTML Validation
+For HTML code checking, I used HTML checker as recommended by code institute themselves.
+Index HTML
+
+<img src="/docs/checker/index.PNG">
+
+Sign up HTML
+<img src="/docs/checker/sign_up.PNG">
+
+About Us HTML
+<img src="/docs/checker/about_us.PNG">
+
+Contact Us HTML
+<img src="/docs/checker/contact_me.PNG">
+
+CSS Validation
+For CSS checking, I used CSS checker as recommended by code institute themselves.
+
+Style CSS
+<img src="/docs/checker/style_css.PNG">
+
+Hover CSS
+<img src="/docs/checker/hover_css.PNG">
+
+
