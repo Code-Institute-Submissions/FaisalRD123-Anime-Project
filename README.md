@@ -156,3 +156,12 @@ The Landing Page
   
 <img src="/docs/pics/Landing_Page1.PNG">
 <img src="/docs/pics/Landing_Page2.PNG">
+
+Sign Up Page
+
+* This page will allow the user to sign up to use the Fanime. It asks the user their name, email, password and age. There is an age restriction tag added so the user cannot enter 0 or below 0 digit.
+* There is a nice smooth hover effect when hovering over sign up page.
+
+<img src="/docs/pics/Sign_up.PNG">
+
+
