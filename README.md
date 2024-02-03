@@ -47,4 +47,4 @@ Project Goals
 * Cool backgrounds and animated features.
 * Extra attention to different hovering effect to make it cooler and appealing to the new users.
 
-
+Site Owner Goals 
