@@ -48,3 +48,5 @@ Project Goals
 * Extra attention to different hovering effect to make it cooler and appealing to the new users.
 
 Target Audience
+* People looking for fun and entertainment.
+* Mostly teenagers as they contained the most targeted audience.
