@@ -65,3 +65,10 @@ First time user
 * As a first time user, I want the site simple and easy to navigate.
 * As a first time user, I want the links to open in a new page.
 * As a first time user, I want the site to look appealing. (As anime is mostly about art and style).
+
+Returning User
+
+* As a returning user, I want small improvements over time.
+* As a returning user, I expect the site to have more animes over time.
+* As a returning user, I want to see Dub and Sub options for all anime if available.
+* As a returning user, I want to see star ratings and user ratings to help me decide about different anime.
