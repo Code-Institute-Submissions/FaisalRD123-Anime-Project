@@ -45,5 +45,6 @@ Project Goals
 
 * Creating a website where the users can find all kind of different anime.
 * Cool backgrounds and animated features.
+* Extra attention to different hovering effect to make it cooler and appealing to the new users.
 
 
