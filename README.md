@@ -61,3 +61,7 @@ User requirements and Expectations
 * Good hovering effect.
 
 First time user
+
+* As a first time user, I want the site simple and easy to navigate.
+* As a first time user, I want the links to open in a new page.
+* As a first time user, I want the site to look appealing. (As anime is mostly about art and style).
