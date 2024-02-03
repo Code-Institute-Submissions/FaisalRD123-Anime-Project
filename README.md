@@ -206,4 +206,17 @@ Style CSS
 Hover CSS
 <img src="/docs/checker/hover_css.PNG">
 
+Accessibility
+For evaluation, I used WAVW WebAIM web accessibility evaluation tool. As seen in the screenshots, no error found in any of the pages.
 
+Index Wave
+<img src="/docs/checker/index_wave.PNG">
+
+Sign Up Wave
+<img src="/docs/checker/sign_up.PNG">
+
+Contact Us Wave
+<img src="/docs/checker/contact_us.PNG">
+
+About Us Wave
+<img src="/docs/checker/about_us.PNG">
