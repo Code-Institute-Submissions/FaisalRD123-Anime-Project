@@ -83,3 +83,17 @@ Site Owner
 Wire Frames
 Home Page (Normal)
 <img src="/docs/wireframes/Main_Page.PNG">
+Home Page (Mobile)
+<img src="/docs/wireframes/Main_Mobile.PNG">
+Home Page (IPad)
+<img src="/docs/wireframes/Main.PNG">
+Sign Up (Normal)
+<img src="/docs/wireframes/SignUp_Page.PNG">
+Sign Up (Mobile)
+<img src="/docs/wireframes/SignUp_Mobile.PNG">
+Sign up (IPad)
+<img src="/docs/wireframes/SignUp_Ipad.PNG">
+Contact Us
+<img src="/docs/wireframes/Contact_Me.PNG">
+About Us 
+<img src="/docs/wireframes/About_Me.PNG">
