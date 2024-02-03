@@ -72,3 +72,8 @@ Returning User
 * As a returning user, I expect the site to have more animes over time.
 * As a returning user, I want to see Dub and Sub options for all anime if available.
 * As a returning user, I want to see star ratings and user ratings to help me decide about different anime.
+
+Site Owner
+
+* As a site owner, I want users to find upcoming anime, movies and news.
+* As a site owner, I want a communication between us and the users.
