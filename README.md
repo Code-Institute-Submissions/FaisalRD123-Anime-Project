@@ -146,3 +146,13 @@ Nav 2
 <img src="/docs/pics/Nav2.PNG">
 Nav 3
 <img src="/docs/pics/Nav3.PNG">
+
+The Landing Page 
+
+* The landing page contains all the tabs to the other pages in the header and social media links at the footer.
+* The main section have different anime with different animations.
+* The pictures are static unless you hover over them. On hover, there is an animation style and a small paragraph about the anime.
+* The text on top of the animation opens the animation tab.
+  
+<img src="/docs/pics/Landing_Page1.PNG">
+<img src="/docs/pics/Landing_Page2.PNG">
