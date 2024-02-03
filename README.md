@@ -50,3 +50,5 @@ Project Goals
 Target Audience
 * People looking for fun and entertainment.
 * Mostly teenagers as they contained the most targeted audience.
+
+User requirements and Expectations
