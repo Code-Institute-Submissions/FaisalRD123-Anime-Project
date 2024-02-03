@@ -255,29 +255,29 @@ Bugs
 * Added margin-top to separate them.
 * Created a parent div to give it a display flex.
   
-* Credits
+Credits:
 * None of the images and gifs belongs to me. They were taken from different sites. All credit goes to them.
   
-* Favicon
+Favicon:
 * The favicon was created on https://favicon.io/.
 
-* Images
+Images: 
 * The images were taken from the following sites:
 1.	https://wallpapers.com/cool-anime
 2.	https://anime-pictures.net/
 3.	https://pixabay.com/images/search/anime/
 
-Gifs
+Gifs: 
 The gifs were taken from the following sites:
 1.	https://gifs.alphacoders.com/by_category/3
 2.	https://giphy.com/explore/anime
 
 
-Fonts
+Fonts: 
 The fonts were taken from Google Font.
 
 
-Colours
+Colours: 
 The colours were taken from https://coolors.co/.
 
 Deployment
@@ -286,7 +286,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 * In the Generals section, go to Pages.
 * Source: deploy from branch. The branch should be main and folder was root.
 * Go to codes, on the right side, click GitHub-pages.
-* 
+
 The live link can be found here - https://faisalrd123.github.io/Anime-Project/.
 
 Future Work
