@@ -44,6 +44,6 @@ Fanime is a site for anime lovers to have a platform to watch their favourite an
 Project Goals
 
 * Creating a website where the users can find all kind of different anime.
-
+* Cool backgrounds and animated features.
 
 
