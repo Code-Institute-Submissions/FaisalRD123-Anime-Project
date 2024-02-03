@@ -254,13 +254,13 @@ Bugs
 * Changed mp4 to gif to make it work.
 * Added margin-top to separate them.
 * Created a parent div to give it a display flex.
-* 
+  
 * Credits
 * None of the images and gifs belongs to me. They were taken from different sites. All credit goes to them.
-* 
+  
 * Favicon
 * The favicon was created on https://favicon.io/.
-* 
+
 * Images
 * The images were taken from the following sites:
 1.	https://wallpapers.com/cool-anime
@@ -282,10 +282,11 @@ The colours were taken from https://coolors.co/.
 
 Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
-•	In the GitHub repository, go to the Settings tab.
-•	In the Generals section, go to Pages.
-•	Source: deploy from branch. The branch should be main and folder was root.
-•	Go to codes, on the right side, click GitHub-pages.
+* In the GitHub repository, go to the Settings tab.
+* In the Generals section, go to Pages.
+* Source: deploy from branch. The branch should be main and folder was root.
+* Go to codes, on the right side, click GitHub-pages.
+* 
 The live link can be found here - https://faisalrd123.github.io/Anime-Project/.
 
 Future Work
@@ -293,7 +294,8 @@ For the future work, a lot of new animes can be added to the site. For now, ther
 Animations made the website quite slow. Better implementation of animations will work wonders on the site.
 
 Acknowledgements
+
 Last but not least, I would like to thank the following people who helped me achieve this achievement.
-•	Mo Shami, my mentor, who gave me advice, support and feedback throughout the project.
-•	My friend, Zayn, who gave the idea of the site and taught me a lot about HTML and CSS.
+* Mo Shami, my mentor, who gave me advice, support and feedback throughout the project.
+* My friend, Zayn, who gave the idea of the site and taught me a lot about HTML and CSS.
 
