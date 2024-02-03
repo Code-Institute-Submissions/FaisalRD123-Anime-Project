@@ -243,17 +243,17 @@ About Us Performance
 
 Bugs
 
-1-	User could submit all the details without writing anything.
-2-	External links opening on the same page.
-3-	Animations were not working.
-4-	2nd row of anime overlapping the first row.
-5-	Contact_Us page div’s weren’t working properly.
+* User could submit all the details without writing anything.
+* External links opening on the same page.
+* Animations were not working.
+* 2nd row of anime overlapping the first row.
+* Contact_Us page div’s weren’t working properly.
 Fixes
-1-	Added required so they have to submit all details.
-2-	Added “target = _blank” to open in a new tab.
-3-	Changed mp4 to gif to make it work.
-4-	Added margin-top to separate them.
-5-	Created a parent div to give it a display flex.
+* Added required so they have to submit all details.
+* Added “target = _blank” to open in a new tab.
+* Changed mp4 to gif to make it work.
+* Added margin-top to separate them.
+* Created a parent div to give it a display flex.
 Credits
 None of the images and gifs belongs to me. They were taken from different sites. All credit goes to them.
 Favicon
@@ -263,10 +263,12 @@ The images were taken from the following sites:
 1.	https://wallpapers.com/cool-anime
 2.	https://anime-pictures.net/
 3.	https://pixabay.com/images/search/anime/
+<br>
 Gifs
 The gifs were taken from the following sites:
 1.	https://gifs.alphacoders.com/by_category/3
 2.	https://giphy.com/explore/anime
+<br>
 Fonts
 The fonts were taken from Google Font.
 Colours
