@@ -210,13 +210,33 @@ Accessibility
 For evaluation, I used WAVW WebAIM web accessibility evaluation tool. As seen in the screenshots, no error found in any of the pages.
 
 Index Wave
-<img src="/docs/checker/index_wave.PNG">
+<img src="/docs/wave/index_wave.PNG">
 
 Sign Up Wave
-<img src="/docs/checker/sign_up.PNG">
+<img src="/docs/wave/sign_up.PNG">
 
 Contact Us Wave
-<img src="/docs/checker/contact_us.PNG">
+<img src="/docs/wave/contact_us.PNG">
 
 About Us Wave
-<img src="/docs/checker/about_us.PNG">
+<img src="/docs/wave/about_us.PNG">
+
+Performance
+For performance testing, I used lighthouse extension from google chrome.
+The results can be seen below:
+
+Main Page performance
+<img src="/docs/performance/performance.PNG">
+
+Side Note:
+Due to animations, the performance got too low. Added a few tweaks to make it higher.
+
+
+Sign Up Performance
+<img src="/docs/performance/signup.PNG">
+
+Contact_US Performance
+<img src="/docs/performance/contact.PNG">
+
+About Us Performance
+<img src="/docs/performance/about.PNG">
