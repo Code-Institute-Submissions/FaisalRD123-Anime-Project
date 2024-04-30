@@ -245,6 +245,7 @@ footer {
 #contact_me, #about_me {
     width: 50%;
     border: 5px solid black;
+    height: 400px;
 }
 
 
